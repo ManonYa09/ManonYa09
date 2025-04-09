@@ -1,4 +1,4 @@
-### 👋 Hello, I'm @ManonYa09!
+### 👋 Hello, I'm Manon
 
 I'm deeply passionate about **Computer Vision** and **Deep Learning**, with a keen interest in exploring how AI can revolutionize our interaction with the digital world. Currently, I'm on a journey through the **Data Science** field, constantly learning and expanding my skills.
 
